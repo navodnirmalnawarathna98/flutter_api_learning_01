@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Kamal Perera",
+    "course": "BSc in Information Technology",
+    "email": "kamal@example.com",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Nimali Silva",
+    "course": "Software Engineering",
+    "email": "nimali@example.com",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Kasun Fernando",
+    "course": "Computer Science",
+    "email": "kasun@example.com",
+    "active": false
+  },
+  {
+    "id": 4,
+    "name": "Tharushi Perera",
+    "course": "Information Systems",
+    "email": "tharushi@example.com",
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "Sahan Jayawardena",
+    "course": "Cyber Security",
+    "email": "sahan@example.com",
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Dinithi Fernando",
+    "course": "Data Science",
+    "email": "dinithi@example.com",
+    "active": false
+  },
+  {
+    "id": 7,
+    "name": "Isuru Madushan",
+    "course": "Software Engineering",
+    "email": "isuru@example.com",
+    "active": true
+  },
+  {
+    "id": 8,
+    "name": "Pavithra Silva",
+    "course": "BSc in Information Technology",
+    "email": "pavithra@example.com",
+    "active": true
+  },
+  {
+    "id": 9,
+    "name": "Ravindu Lakshan",
+    "course": "Computer Networks",
+    "email": "ravindu@example.com",
+    "active": false
+  },
+  {
+    "id": 10,
+    "name": "Sachini Wijesinghe",
+    "course": "Artificial Intelligence",
+    "email": "sachini@example.com",
+    "active": true
+  }
+]
